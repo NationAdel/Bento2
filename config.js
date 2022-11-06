@@ -6,7 +6,7 @@
 // └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
 
 let CONFIG = {
-	name: 'Lynx',
+	name: 'User',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -198,11 +198,11 @@ let CONFIG = {
 }
 
 let PRECONFIG = {
-	name: 'User',
+	name: 'Lynx',
 	imageBackground: true,
 	dataImage: 'assets/background.jpg',
 	openInNewTab: false,
-	bentoLayout: 'bento',
+	bentoLayout: 'buttons',
 	weatherIcons: 'OneDark',
 	changeThemeByHour: false,
 	hourDarkThemeActive: '06:00',
