@@ -6,7 +6,7 @@
 // └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
 
 let CONFIG = {
-	name: 'User',
+	name: 'Lynx',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -20,8 +20,8 @@ let CONFIG = {
 	weatherUnit: 'C',
 	language: 'pt_br',
 	trackLocation: true,
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '45.424721',
+	defaultLongitude: '-75.695000',
 	autoChangeTheme: true,
 	changeThemeByOS: true,
 	changeThemeByHour: false,
